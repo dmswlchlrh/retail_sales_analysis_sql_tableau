@@ -1,0 +1,1086 @@
+YearMonth,CustomerID,Country,TotalSales,PurchaseCount,CancelledOrders
+2010-12,12381,"Norway",4.50,1,0
+2010-12,12444,"Norway",879.01,1,0
+2010-12,12457,"Switzerland",NULL,0,1
+2010-12,12471,"Germany",NULL,0,1
+2010-12,12518,"Germany",381.06,1,0
+2010-12,12553,"France",477.55,1,0
+2010-12,12569,"Germany",103.50,1,0
+2010-12,12583,"France",314.20,1,0
+2010-12,12602,"France",153.12,1,0
+2010-12,12607,"USA",NULL,0,1
+2010-12,12633,"Germany",215.23,1,0
+2010-12,12664,"Finland",334.80,1,1
+2010-12,12667,"Finland",620.13,1,0
+2010-12,12679,"France",112.32,1,0
+2010-12,12691,"France",303.10,1,0
+2010-12,12709,"Germany",533.12,1,0
+2010-12,12908,"United Kingdom",NULL,0,1
+2010-12,13058,"United Kingdom",90.15,1,0
+2010-12,13078,"United Kingdom",333.60,1,0
+2010-12,13115,"United Kingdom",901.07,1,0
+2010-12,13208,"United Kingdom",6.48,1,1
+2010-12,13464,"United Kingdom",674.68,1,0
+2010-12,13468,"United Kingdom",100.58,1,0
+2010-12,13520,"Switzerland",676.37,1,0
+2010-12,13575,"United Kingdom",147.41,1,0
+2010-12,13704,"United Kingdom",397.29,1,0
+2010-12,13842,"United Kingdom",581.69,1,0
+2010-12,13865,"United Kingdom",118.22,1,0
+2010-12,13983,"United Kingdom",12.97,1,0
+2010-12,13985,"United Kingdom",626.92,1,0
+2010-12,14156,"EIRE",407.10,1,0
+2010-12,14299,"United Kingdom",307.06,1,0
+2010-12,14541,"United Kingdom",146.00,1,0
+2010-12,14642,"United Kingdom",96.12,1,0
+2010-12,14761,"United Kingdom",158.40,1,0
+2010-12,14775,"United Kingdom",310.44,1,0
+2010-12,14834,"United Kingdom",343.94,1,0
+2010-12,14852,"United Kingdom",648.27,1,0
+2010-12,14911,"EIRE",1777.71,4,2
+2010-12,15038,"United Kingdom",15.00,1,0
+2010-12,15144,"United Kingdom",416.60,1,0
+2010-12,15267,"United Kingdom",120.00,1,0
+2010-12,15281,"United Kingdom",140.37,1,0
+2010-12,15311,"United Kingdom",1217.72,1,0
+2010-12,15421,"United Kingdom",211.00,1,0
+2010-12,15473,"United Kingdom",408.00,3,3
+2010-12,15555,"United Kingdom",167.47,1,0
+2010-12,15831,"United Kingdom",334.17,1,0
+2010-12,15840,"United Kingdom",113.82,1,0
+2010-12,16085,"United Kingdom",120.33,1,0
+2010-12,16203,"United Kingdom",214.60,1,0
+2010-12,16241,"United Kingdom",110.03,1,0
+2010-12,16295,"United Kingdom",336.40,1,0
+2010-12,16607,"United Kingdom",168.55,1,0
+2010-12,16652,"United Kingdom",2248.10,2,0
+2010-12,16753,"United Kingdom",214.20,1,0
+2010-12,16945,"United Kingdom",341.02,2,0
+2010-12,17017,"United Kingdom",NULL,0,1
+2010-12,17064,"United Kingdom",398.05,1,0
+2010-12,17096,"United Kingdom",263.61,1,0
+2010-12,17173,"United Kingdom",681.96,2,0
+2010-12,17190,"United Kingdom",249.74,1,0
+2010-12,17193,"United Kingdom",174.42,2,0
+2010-12,17293,"United Kingdom",236.31,1,0
+2010-12,17314,"United Kingdom",665.59,1,0
+2010-12,17346,"United Kingdom",232.69,1,0
+2010-12,17410,"United Kingdom",449.15,1,0
+2010-12,17489,"United Kingdom",168.08,1,0
+2010-12,17528,"United Kingdom",467.36,1,0
+2010-12,17676,"United Kingdom",292.74,1,0
+2010-12,17737,"United Kingdom",87.39,1,0
+2010-12,17841,"United Kingdom",509.83,1,0
+2010-12,17913,"United Kingdom",156.55,1,0
+2010-12,17934,"United Kingdom",638.45,1,0
+2010-12,18171,"United Kingdom",237.00,1,0
+2010-12,18229,"United Kingdom",323.74,1,0
+2010-12,18277,"United Kingdom",110.38,1,0
+2010-12,18287,"United Kingdom",1001.32,1,0
+2011-01,12491,"France",413.60,1,0
+2011-01,12523,"France",NULL,0,1
+2011-01,12552,"Italy",120.00,1,0
+2011-01,12674,"France",568.60,1,0
+2011-01,12682,"France",825.81,1,0
+2011-01,12748,"United Kingdom",27.80,1,0
+2011-01,13021,"United Kingdom",299.10,1,0
+2011-01,13028,"United Kingdom",NULL,0,1
+2011-01,13032,"United Kingdom",NULL,0,1
+2011-01,13126,"United Kingdom",NULL,0,1
+2011-01,13268,"United Kingdom",404.96,1,0
+2011-01,13292,"United Kingdom",329.37,1,0
+2011-01,13327,"United Kingdom",889.02,1,0
+2011-01,13461,"United Kingdom",560.80,1,0
+2011-01,13468,"United Kingdom",85.45,1,0
+2011-01,13571,"United Kingdom",213.82,1,0
+2011-01,13697,"United Kingdom",151.30,1,0
+2011-01,13726,"United Kingdom",786.98,1,0
+2011-01,13755,"United Kingdom",107.10,1,0
+2011-01,13758,"United Kingdom",326.22,1,0
+2011-01,13868,"United Kingdom",507.54,1,0
+2011-01,13881,"United Kingdom",949.50,1,0
+2011-01,13882,"United Kingdom",NULL,0,1
+2011-01,13969,"United Kingdom",422.10,1,0
+2011-01,14189,"United Kingdom",NULL,0,1
+2011-01,14191,"United Kingdom",294.58,1,0
+2011-01,14243,"United Kingdom",175.40,1,0
+2011-01,14329,"United Kingdom",NULL,0,1
+2011-01,14345,"United Kingdom",108.98,1,0
+2011-01,14383,"United Kingdom",329.88,1,0
+2011-01,14401,"United Kingdom",312.82,1,0
+2011-01,14419,"United Kingdom",173.71,1,0
+2011-01,14426,"United Kingdom",600.22,1,0
+2011-01,14432,"United Kingdom",109.80,1,0
+2011-01,14485,"United Kingdom",158.22,1,0
+2011-01,14505,"United Kingdom",888.47,1,0
+2011-01,14562,"United Kingdom",182.88,1,0
+2011-01,14667,"United Kingdom",740.64,1,0
+2011-01,14866,"United Kingdom",2146.70,2,0
+2011-01,14911,"EIRE",2047.05,2,0
+2011-01,14995,"United Kingdom",112.67,1,0
+2011-01,15018,"United Kingdom",204.87,1,0
+2011-01,15039,"United Kingdom",136.27,1,0
+2011-01,15214,"United Kingdom",183.20,1,0
+2011-01,15311,"United Kingdom",358.59,1,1
+2011-01,15423,"United Kingdom",43.50,1,0
+2011-01,15489,"United Kingdom",NULL,0,1
+2011-01,15511,"United Kingdom",227.30,1,0
+2011-01,15527,"United Kingdom",641.10,1,0
+2011-01,15847,"United Kingdom",208.59,1,0
+2011-01,16029,"United Kingdom",632.30,1,0
+2011-01,16150,"United Kingdom",NULL,0,1
+2011-01,16164,"United Kingdom",NULL,0,1
+2011-01,16173,"United Kingdom",112.65,1,0
+2011-01,16360,"United Kingdom",431.33,1,1
+2011-01,16458,"United Kingdom",195.02,1,0
+2011-01,16648,"United Kingdom",NULL,0,1
+2011-01,16729,"United Kingdom",556.05,1,0
+2011-01,16825,"United Kingdom",456.48,1,0
+2011-01,16830,"United Kingdom",325.91,1,0
+2011-01,16960,"United Kingdom",148.96,1,0
+2011-01,16971,"United Kingdom",355.51,1,0
+2011-01,17139,"United Kingdom",639.60,1,0
+2011-01,17166,"United Kingdom",78.75,1,0
+2011-01,17193,"United Kingdom",NULL,0,1
+2011-01,17243,"United Kingdom",360.72,1,0
+2011-01,17315,"United Kingdom",186.05,1,0
+2011-01,17346,"United Kingdom",187.82,1,0
+2011-01,17377,"United Kingdom",151.50,1,0
+2011-01,17389,"United Kingdom",307.32,1,0
+2011-01,17419,"United Kingdom",318.41,1,0
+2011-01,17428,"United Kingdom",311.18,1,0
+2011-01,17495,"United Kingdom",342.59,1,0
+2011-01,17503,"United Kingdom",335.39,1,0
+2011-01,17576,"United Kingdom",132.53,1,0
+2011-01,17653,"United Kingdom",569.82,1,0
+2011-01,17668,"United Kingdom",161.85,1,0
+2011-01,17696,"United Kingdom",370.12,1,0
+2011-01,17733,"United Kingdom",475.24,1,0
+2011-01,17739,"United Kingdom",354.49,1,0
+2011-01,17812,"United Kingdom",43.47,1,0
+2011-01,17813,"United Kingdom",195.46,1,0
+2011-01,17865,"United Kingdom",NULL,0,1
+2011-01,17888,"United Kingdom",37.50,1,0
+2011-01,18092,"United Kingdom",1350.90,1,0
+2011-01,18135,"United Kingdom",147.00,1,0
+2011-01,18226,"United Kingdom",NULL,0,1
+2011-01,18270,"United Kingdom",171.20,1,0
+2011-02,12415,"Australia",624.24,1,1
+2011-02,12474,"Germany",NULL,0,1
+2011-02,12490,"France",633.44,1,0
+2011-02,12594,"Italy",85.92,1,0
+2011-02,12654,"Germany",171.23,1,0
+2011-02,12748,"United Kingdom",234.53,1,0
+2011-02,12779,"Poland",981.95,1,0
+2011-02,12830,"United Kingdom",400.32,1,0
+2011-02,12901,"United Kingdom",306.00,1,0
+2011-02,12955,"United Kingdom",994.80,1,0
+2011-02,13183,"United Kingdom",443.14,1,0
+2011-02,13271,"United Kingdom",183.82,1,1
+2011-02,13316,"United Kingdom",1514.17,1,0
+2011-02,13318,"United Kingdom",302.96,1,0
+2011-02,13394,"United Kingdom",NULL,0,2
+2011-02,13477,"United Kingdom",90.96,1,0
+2011-02,13769,"United Kingdom",301.97,1,0
+2011-02,13854,"United Kingdom",409.08,1,0
+2011-02,13870,"United Kingdom",NULL,0,1
+2011-02,13890,"United Kingdom",282.20,1,0
+2011-02,13904,"United Kingdom",131.52,1,0
+2011-02,14032,"United Kingdom",102.72,1,0
+2011-02,14088,"United Kingdom",3962.85,1,0
+2011-02,14102,"United Kingdom",284.50,1,1
+2011-02,14216,"United Kingdom",459.80,1,0
+2011-02,14285,"United Kingdom",300.60,1,0
+2011-02,14390,"United Kingdom",564.41,1,1
+2011-02,14434,"United Kingdom",310.80,1,0
+2011-02,14493,"United Kingdom",NULL,0,1
+2011-02,14511,"United Kingdom",NULL,0,1
+2011-02,14528,"United Kingdom",364.22,1,0
+2011-02,14606,"United Kingdom",113.01,1,1
+2011-02,14646,"Netherlands",4486.91,3,0
+2011-02,14673,"United Kingdom",304.68,1,0
+2011-02,14911,"EIRE",NULL,0,1
+2011-02,14974,"United Kingdom",89.94,1,0
+2011-02,15065,"United Kingdom",299.38,1,0
+2011-02,15275,"United Kingdom",610.10,1,0
+2011-02,15414,"United Kingdom",385.30,1,0
+2011-02,15521,"United Kingdom",NULL,0,1
+2011-02,15576,"United Kingdom",921.37,1,0
+2011-02,15743,"United Kingdom",125.69,1,0
+2011-02,15750,"United Kingdom",315.01,1,0
+2011-02,15804,"United Kingdom",362.43,1,0
+2011-02,15805,"United Kingdom",19.92,1,0
+2011-02,15830,"United Kingdom",576.00,1,0
+2011-02,16014,"United Kingdom",132.45,1,0
+2011-02,16043,"United Kingdom",97.50,1,0
+2011-02,16205,"United Kingdom",102.83,1,0
+2011-02,16210,"United Kingdom",843.60,1,0
+2011-02,16308,"United Kingdom",960.00,1,0
+2011-02,16348,"United Kingdom",189.36,1,0
+2011-02,16352,"United Kingdom",204.92,1,0
+2011-02,16365,"United Kingdom",281.21,1,0
+2011-02,16367,"United Kingdom",621.94,1,0
+2011-02,16379,"United Kingdom",823.80,1,0
+2011-02,16525,"United Kingdom",863.04,1,0
+2011-02,16531,"United Kingdom",223.21,1,0
+2011-02,16558,"United Kingdom",302.00,1,0
+2011-02,16607,"United Kingdom",313.20,1,0
+2011-02,16706,"United Kingdom",119.80,1,0
+2011-02,16747,"United Kingdom",355.86,1,0
+2011-02,16748,"United Kingdom",339.00,1,0
+2011-02,16790,"United Kingdom",664.21,1,0
+2011-02,16839,"United Kingdom",599.25,1,0
+2011-02,16884,"United Kingdom",429.84,2,0
+2011-02,17109,"United Kingdom",NULL,0,1
+2011-02,17135,"United Kingdom",184.42,2,0
+2011-02,17410,"United Kingdom",109.68,1,0
+2011-02,17432,"United Kingdom",175.89,1,0
+2011-02,17434,"United Kingdom",313.74,1,0
+2011-02,17595,"United Kingdom",155.80,1,0
+2011-02,17663,"United Kingdom",211.47,1,0
+2011-02,17675,"United Kingdom",1183.90,1,0
+2011-02,17719,"United Kingdom",307.14,1,0
+2011-02,17735,"United Kingdom",562.71,1,0
+2011-02,17754,"United Kingdom",523.46,1,0
+2011-02,17800,"United Kingdom",127.30,1,0
+2011-02,17811,"United Kingdom",120.66,1,1
+2011-02,17841,"United Kingdom",443.14,1,1
+2011-02,17947,"United Kingdom",171.64,1,0
+2011-02,17965,"United Kingdom",303.07,1,0
+2011-02,17966,"United Kingdom",504.00,1,0
+2011-02,17999,"United Kingdom",186.90,1,0
+2011-02,18104,"United Kingdom",754.64,1,0
+2011-02,18105,"United Kingdom",113.48,1,0
+2011-02,18164,"United Kingdom",399.65,1,0
+2011-03,12352,"Norway",311.73,1,0
+2011-03,12415,"Australia",375.24,1,0
+2011-03,12437,"France",997.03,2,0
+2011-03,12471,"Germany",725.72,1,0
+2011-03,12544,"Spain",372.70,1,0
+2011-03,12569,"Germany",92.25,1,0
+2011-03,12615,"France",656.95,1,0
+2011-03,12674,"France",NULL,0,1
+2011-03,12683,"France",NULL,0,1
+2011-03,12808,"Portugal",202.30,1,0
+2011-03,13014,"United Kingdom",347.35,1,0
+2011-03,13168,"United Kingdom",346.53,1,0
+2011-03,13267,"United Kingdom",367.69,1,0
+2011-03,13324,"United Kingdom",684.12,1,0
+2011-03,13408,"United Kingdom",660.70,1,1
+2011-03,13467,"United Kingdom",693.51,1,0
+2011-03,13500,"United Kingdom",342.40,1,0
+2011-03,13599,"United Kingdom",511.70,1,0
+2011-03,13636,"United Kingdom",302.57,1,0
+2011-03,13709,"United Kingdom",1084.27,3,0
+2011-03,13721,"United Kingdom",524.14,1,0
+2011-03,13728,"United Kingdom",219.12,1,0
+2011-03,13914,"United Kingdom",321.07,1,0
+2011-03,13925,"United Kingdom",NULL,0,1
+2011-03,14098,"United Kingdom",147.35,1,0
+2011-03,14110,"United Kingdom",41.60,1,0
+2011-03,14359,"United Kingdom",NULL,0,1
+2011-03,14428,"United Kingdom",471.23,1,0
+2011-03,14505,"United Kingdom",NULL,0,1
+2011-03,14607,"United Kingdom",1000.00,1,0
+2011-03,14636,"United Kingdom",309.66,1,0
+2011-03,14723,"United Kingdom",159.73,1,0
+2011-03,14815,"United Kingdom",208.20,1,0
+2011-03,14849,"United Kingdom",557.74,4,0
+2011-03,14856,"United Kingdom",308.11,2,0
+2011-03,14878,"United Kingdom",142.98,1,0
+2011-03,15227,"United Kingdom",342.58,2,0
+2011-03,15252,"United Kingdom",440.23,1,0
+2011-03,15271,"United Kingdom",91.59,1,0
+2011-03,15290,"United Kingdom",NULL,0,1
+2011-03,15482,"United Kingdom",1915.60,1,1
+2011-03,15521,"United Kingdom",NULL,0,1
+2011-03,15527,"United Kingdom",NULL,0,1
+2011-03,15551,"United Kingdom",436.06,1,0
+2011-03,15570,"United Kingdom",958.82,1,0
+2011-03,15605,"United Kingdom",303.45,1,0
+2011-03,15612,"United Kingdom",125.50,1,0
+2011-03,15640,"United Kingdom",981.77,1,0
+2011-03,15651,"United Kingdom",418.98,2,0
+2011-03,15809,"United Kingdom",116.56,1,0
+2011-03,15814,"United Kingdom",456.24,1,0
+2011-03,15998,"United Kingdom",561.77,1,0
+2011-03,16016,"United Kingdom",268.29,1,0
+2011-03,16128,"United Kingdom",278.52,1,0
+2011-03,16221,"United Kingdom",544.04,1,0
+2011-03,16322,"United Kingdom",207.63,1,0
+2011-03,16333,"United Kingdom",5727.00,1,0
+2011-03,16337,"United Kingdom",151.05,1,0
+2011-03,16347,"United Kingdom",408.29,1,0
+2011-03,16409,"United Kingdom",573.45,1,0
+2011-03,16438,"United Kingdom",112.41,1,0
+2011-03,16500,"United Kingdom",85.32,2,0
+2011-03,16602,"United Kingdom",528.08,1,0
+2011-03,16678,"United Kingdom",301.20,1,0
+2011-03,16684,"United Kingdom",5500.38,1,0
+2011-03,16729,"United Kingdom",NULL,0,1
+2011-03,16746,"United Kingdom",309.01,1,0
+2011-03,16841,"United Kingdom",308.76,1,0
+2011-03,16891,"United Kingdom",119.45,1,0
+2011-03,16914,"United Kingdom",167.14,1,0
+2011-03,16929,"United Kingdom",105.78,1,0
+2011-03,16992,"United Kingdom",427.51,1,0
+2011-03,17076,"United Kingdom",506.88,1,0
+2011-03,17078,"United Kingdom",303.32,2,0
+2011-03,17086,"United Kingdom",302.22,1,0
+2011-03,17221,"United Kingdom",132.28,1,0
+2011-03,17306,"United Kingdom",379.92,1,0
+2011-03,17351,"United Kingdom",159.85,1,0
+2011-03,17389,"United Kingdom",7427.32,1,0
+2011-03,17403,"United Kingdom",263.92,1,0
+2011-03,17442,"United Kingdom",326.87,1,0
+2011-03,17450,"United Kingdom",9069.82,2,0
+2011-03,17481,"United Kingdom",405.00,1,0
+2011-03,17491,"United Kingdom",360.83,1,0
+2011-03,17611,"United Kingdom",300.10,1,0
+2011-03,17634,"United Kingdom",133.66,1,0
+2011-03,17644,"United Kingdom",430.21,2,0
+2011-03,17653,"United Kingdom",294.40,1,0
+2011-03,17750,"United Kingdom",131.04,1,0
+2011-03,17816,"United Kingdom",6.24,1,0
+2011-03,17857,"United Kingdom",1623.92,2,0
+2011-03,18041,"United Kingdom",87.24,1,0
+2011-03,18044,"United Kingdom",340.20,1,0
+2011-03,18081,"United Kingdom",135.40,1,0
+2011-03,18205,"United Kingdom",291.60,1,0
+2011-04,12362,"Belgium",477.94,1,0
+2011-04,12397,"Belgium",1195.09,1,0
+2011-04,12415,"Australia",NULL,0,1
+2011-04,12431,"Australia",601.44,1,0
+2011-04,12484,"Spain",670.23,1,0
+2011-04,12500,"Germany",NULL,0,1
+2011-04,12576,"Poland",379.28,1,0
+2011-04,12577,"France",422.31,2,1
+2011-04,12664,"Finland",760.00,1,0
+2011-04,12704,"Finland",561.28,1,1
+2011-04,12748,"United Kingdom",105.39,2,0
+2011-04,12928,"United Kingdom",592.56,1,0
+2011-04,12944,"United Kingdom",317.56,1,0
+2011-04,12971,"United Kingdom",63.06,1,0
+2011-04,13004,"United Kingdom",384.93,1,0
+2011-04,13013,"United Kingdom",315.29,1,0
+2011-04,13050,"United Kingdom",NULL,0,1
+2011-04,13081,"United Kingdom",7266.30,1,0
+2011-04,13178,"United Kingdom",262.26,1,0
+2011-04,13313,"United Kingdom",324.30,1,0
+2011-04,13447,"United Kingdom",223.71,1,0
+2011-04,13495,"United Kingdom",659.80,1,0
+2011-04,13534,"United Kingdom",NULL,0,1
+2011-04,13592,"United Kingdom",42.45,1,0
+2011-04,13651,"United Kingdom",15.00,1,0
+2011-04,13756,"United Kingdom",610.76,1,0
+2011-04,13798,"United Kingdom",570.92,1,0
+2011-04,13890,"United Kingdom",NULL,0,1
+2011-04,13938,"United Kingdom",71.66,1,0
+2011-04,14056,"United Kingdom",462.93,1,0
+2011-04,14112,"United Kingdom",NULL,0,1
+2011-04,14132,"United Kingdom",308.16,1,0
+2011-04,14150,"United Kingdom",352.46,1,0
+2011-04,14156,"EIRE",NULL,0,2
+2011-04,14292,"United Kingdom",NULL,0,1
+2011-04,14359,"United Kingdom",NULL,0,1
+2011-04,14388,"United Kingdom",463.09,1,0
+2011-04,14412,"United Kingdom",NULL,0,1
+2011-04,14567,"United Kingdom",NULL,0,1
+2011-04,14592,"United Kingdom",161.29,1,0
+2011-04,14629,"United Kingdom",NULL,0,1
+2011-04,14659,"United Kingdom",312.55,1,0
+2011-04,14842,"United Kingdom",NULL,0,1
+2011-04,14913,"United Kingdom",310.28,1,0
+2011-04,14971,"United Kingdom",485.59,2,0
+2011-04,15010,"United Kingdom",308.94,1,0
+2011-04,15061,"United Kingdom",2118.12,1,0
+2011-04,15110,"United Kingdom",NULL,0,1
+2011-04,15159,"United Kingdom",NULL,0,1
+2011-04,15187,"United Kingdom",NULL,0,1
+2011-04,15291,"United Kingdom",461.16,1,0
+2011-04,15311,"United Kingdom",627.00,1,0
+2011-04,15329,"United Kingdom",NULL,0,1
+2011-04,15345,"United Kingdom",NULL,0,1
+2011-04,15358,"United Kingdom",379.70,1,0
+2011-04,15453,"United Kingdom",293.48,1,0
+2011-04,15468,"United Kingdom",NULL,0,1
+2011-04,15482,"United Kingdom",NULL,0,1
+2011-04,15597,"United Kingdom",324.57,1,0
+2011-04,15598,"United Kingdom",NULL,0,1
+2011-04,15676,"United Kingdom",2370.04,1,0
+2011-04,15707,"United Kingdom",263.74,1,0
+2011-04,15722,"United Kingdom",772.56,2,0
+2011-04,15809,"United Kingdom",NULL,0,1
+2011-04,15845,"United Kingdom",340.48,1,0
+2011-04,16012,"United Kingdom",273.67,1,0
+2011-04,16014,"United Kingdom",NULL,0,1
+2011-04,16191,"United Kingdom",NULL,0,1
+2011-04,16318,"United Kingdom",328.15,1,0
+2011-04,16426,"United Kingdom",196.19,1,0
+2011-04,16463,"United Kingdom",NULL,0,1
+2011-04,16555,"United Kingdom",133.91,1,0
+2011-04,16637,"United Kingdom",NULL,0,1
+2011-04,16656,"United Kingdom",NULL,0,1
+2011-04,16671,"United Kingdom",156.75,1,0
+2011-04,16672,"United Kingdom",537.60,1,0
+2011-04,16684,"United Kingdom",1494.00,1,0
+2011-04,16782,"United Kingdom",155.25,1,0
+2011-04,16839,"United Kingdom",466.84,1,0
+2011-04,16887,"United Kingdom",165.53,1,0
+2011-04,16979,"United Kingdom",NULL,0,1
+2011-04,17084,"United Kingdom",2712.71,2,0
+2011-04,17109,"United Kingdom",NULL,0,1
+2011-04,17193,"United Kingdom",16.54,1,0
+2011-04,17203,"United Kingdom",996.84,3,0
+2011-04,17233,"United Kingdom",190.88,1,0
+2011-04,17274,"United Kingdom",103.32,1,0
+2011-04,17348,"United Kingdom",104.45,1,0
+2011-04,17377,"United Kingdom",147.82,1,0
+2011-04,17434,"United Kingdom",NULL,0,1
+2011-04,17652,"United Kingdom",165.32,1,0
+2011-04,17677,"United Kingdom",419.12,1,0
+2011-04,17690,"United Kingdom",267.85,1,1
+2011-04,17703,"United Kingdom",307.78,1,0
+2011-04,17841,"United Kingdom",472.88,2,2
+2011-04,17930,"United Kingdom",426.84,1,0
+2011-04,17979,"United Kingdom",168.80,1,0
+2011-04,18022,"United Kingdom",523.76,1,0
+2011-04,18035,"United Kingdom",214.11,1,0
+2011-04,18044,"United Kingdom",NULL,0,1
+2011-04,18102,"United Kingdom",15045.00,5,0
+2011-04,18122,"United Kingdom",182.32,1,0
+2011-04,18167,"United Kingdom",390.60,1,0
+2011-04,18172,"United Kingdom",424.92,3,0
+2011-04,18219,"United Kingdom",NULL,0,1
+2011-06,12357,"Switzerland",6101.11,1,0
+2011-06,12381,"Norway",419.06,1,0
+2011-06,12619,"Germany",482.16,1,0
+2011-06,12628,"Germany",237.57,1,0
+2011-06,12638,"Sweden",662.33,1,0
+2011-06,12645,"Germany",464.32,1,0
+2011-06,12748,"United Kingdom",232.65,1,0
+2011-06,12838,"United Kingdom",256.14,1,0
+2011-06,12882,"United Kingdom",471.84,1,0
+2011-06,13040,"United Kingdom",303.25,1,0
+2011-06,13155,"United Kingdom",89.26,1,0
+2011-06,13365,"United Kingdom",1524.77,1,0
+2011-06,13447,"United Kingdom",412.96,1,0
+2011-06,13523,"United Kingdom",978.84,1,0
+2011-06,13527,"United Kingdom",383.32,1,0
+2011-06,13532,"United Kingdom",207.36,1,0
+2011-06,13634,"United Kingdom",202.88,1,0
+2011-06,13719,"United Kingdom",330.79,1,0
+2011-06,13727,"United Kingdom",223.08,1,0
+2011-06,13759,"United Kingdom",99.00,1,0
+2011-06,13772,"United Kingdom",417.77,1,0
+2011-06,14039,"United Kingdom",152.20,1,0
+2011-06,14135,"United Kingdom",346.35,1,0
+2011-06,14174,"United Kingdom",134.46,1,0
+2011-06,14404,"United Kingdom",126.80,1,0
+2011-06,14482,"United Kingdom",328.90,1,0
+2011-06,14502,"United Kingdom",455.28,2,1
+2011-06,14511,"United Kingdom",365.16,1,0
+2011-06,14517,"United Kingdom",78.00,1,0
+2011-06,14547,"United Kingdom",448.12,1,0
+2011-06,14553,"United Kingdom",405.47,2,0
+2011-06,14664,"United Kingdom",372.39,1,0
+2011-06,14820,"United Kingdom",139.10,1,0
+2011-06,14824,"United Kingdom",55.50,1,0
+2011-06,14868,"United Kingdom",558.59,1,0
+2011-06,14882,"United Kingdom",247.90,1,0
+2011-06,14936,"Channel Islands",1303.14,2,0
+2011-06,14963,"United Kingdom",246.41,1,0
+2011-06,15017,"United Kingdom",125.58,1,0
+2011-06,15025,"United Kingdom",356.96,1,0
+2011-06,15078,"United Kingdom",553.10,1,0
+2011-06,15150,"United Kingdom",102.84,1,0
+2011-06,15156,"United Kingdom",312.76,1,0
+2011-06,15351,"United Kingdom",234.30,1,0
+2011-06,15407,"United Kingdom",301.90,1,0
+2011-06,15426,"United Kingdom",320.33,2,1
+2011-06,15427,"United Kingdom",1031.53,2,0
+2011-06,15513,"United Kingdom",885.80,1,0
+2011-06,15514,"United Kingdom",556.20,2,0
+2011-06,15526,"United Kingdom",148.44,2,0
+2011-06,15555,"United Kingdom",420.42,1,0
+2011-06,15571,"United Kingdom",194.35,1,0
+2011-06,15696,"United Kingdom",664.54,1,0
+2011-06,15745,"United Kingdom",309.53,1,0
+2011-06,15839,"United Kingdom",258.13,1,0
+2011-06,15883,"United Kingdom",143.76,1,0
+2011-06,15952,"United Kingdom",223.27,1,0
+2011-06,15993,"United Kingdom",410.95,1,0
+2011-06,16033,"United Kingdom",1158.29,1,0
+2011-06,16168,"United Kingdom",414.30,2,0
+2011-06,16243,"United Kingdom",194.15,1,0
+2011-06,16326,"United Kingdom",216.49,1,0
+2011-06,16357,"United Kingdom",400.93,1,0
+2011-06,16372,"United Kingdom",332.41,2,0
+2011-06,16434,"United Kingdom",233.80,1,0
+2011-06,16445,"United Kingdom",229.41,1,0
+2011-06,16466,"United Kingdom",237.66,1,0
+2011-06,16488,"United Kingdom",144.23,1,0
+2011-06,16676,"United Kingdom",493.62,1,0
+2011-06,16744,"United Kingdom",112.64,1,0
+2011-06,16771,"United Kingdom",135.42,1,0
+2011-06,16790,"United Kingdom",294.24,1,0
+2011-06,16942,"United Kingdom",203.84,1,0
+2011-06,17082,"United Kingdom",1361.96,1,0
+2011-06,17107,"United Kingdom",2287.86,2,0
+2011-06,17114,"United Kingdom",108.24,1,0
+2011-06,17131,"United Kingdom",113.40,1,0
+2011-06,17133,"United Kingdom",399.60,1,0
+2011-06,17289,"United Kingdom",405.98,1,0
+2011-06,17387,"United Kingdom",309.14,1,0
+2011-06,17581,"United Kingdom",1682.29,3,0
+2011-06,17608,"United Kingdom",191.23,2,0
+2011-06,17768,"United Kingdom",873.82,1,0
+2011-06,17769,"United Kingdom",522.09,1,0
+2011-06,17831,"United Kingdom",35.40,1,0
+2011-06,17920,"United Kingdom",310.76,1,0
+2011-06,18077,"United Kingdom",335.86,1,0
+2011-06,18170,"United Kingdom",324.80,1,0
+2011-07,12408,"Belgium",754.50,1,1
+2011-07,12472,"Germany",268.08,1,0
+2011-07,12484,"Spain",140.00,1,0
+2011-07,12597,"Spain",NULL,0,1
+2011-07,12708,"Germany",280.77,1,0
+2011-07,12748,"United Kingdom",477.66,2,0
+2011-07,12783,"Portugal",222.26,1,0
+2011-07,12827,"United Kingdom",100.95,1,0
+2011-07,12832,"United Kingdom",115.23,1,0
+2011-07,13014,"United Kingdom",76.50,1,0
+2011-07,13066,"United Kingdom",151.81,1,0
+2011-07,13078,"United Kingdom",372.24,1,0
+2011-07,13097,"United Kingdom",531.14,1,0
+2011-07,13139,"United Kingdom",1126.86,2,0
+2011-07,13199,"United Kingdom",301.04,1,0
+2011-07,13323,"United Kingdom",97.70,1,0
+2011-07,13324,"United Kingdom",NULL,0,1
+2011-07,13534,"United Kingdom",306.20,1,0
+2011-07,13599,"United Kingdom",484.14,1,0
+2011-07,13673,"United Kingdom",194.54,1,0
+2011-07,13717,"United Kingdom",187.48,1,0
+2011-07,13824,"United Kingdom",269.10,1,0
+2011-07,13890,"United Kingdom",114.75,1,0
+2011-07,13924,"United Kingdom",NULL,0,1
+2011-07,13985,"United Kingdom",418.26,1,0
+2011-07,13993,"United Kingdom",NULL,0,1
+2011-07,14073,"United Kingdom",151.04,1,0
+2011-07,14080,"United Kingdom",45.60,1,0
+2011-07,14135,"United Kingdom",386.74,1,0
+2011-07,14156,"EIRE",397.43,1,0
+2011-07,14387,"United Kingdom",789.46,1,0
+2011-07,14426,"United Kingdom",324.70,1,1
+2011-07,14527,"United Kingdom",148.82,1,0
+2011-07,14606,"United Kingdom",106.44,1,1
+2011-07,14623,"United Kingdom",162.34,1,0
+2011-07,14653,"United Kingdom",131.79,1,0
+2011-07,14700,"United Kingdom",654.00,1,0
+2011-07,14702,"United Kingdom",156.96,1,1
+2011-07,14911,"EIRE",734.90,3,0
+2011-07,14929,"United Kingdom",223.88,1,0
+2011-07,15150,"United Kingdom",535.61,1,0
+2011-07,15291,"United Kingdom",204.00,1,0
+2011-07,15330,"United Kingdom",291.60,1,0
+2011-07,15344,"United Kingdom",151.95,1,0
+2011-07,15493,"United Kingdom",631.86,2,0
+2011-07,15502,"United Kingdom",NULL,0,1
+2011-07,15522,"United Kingdom",128.44,1,0
+2011-07,15618,"United Kingdom",357.81,1,0
+2011-07,15719,"United Kingdom",608.99,1,0
+2011-07,15785,"United Kingdom",663.14,1,0
+2011-07,15870,"United Kingdom",306.35,1,0
+2011-07,16009,"United Kingdom",82.76,1,0
+2011-07,16053,"United Kingdom",371.26,1,0
+2011-07,16070,"United Kingdom",686.85,1,0
+2011-07,16232,"United Kingdom",NULL,0,1
+2011-07,16241,"United Kingdom",102.30,1,0
+2011-07,16242,"United Kingdom",822.11,1,0
+2011-07,16348,"United Kingdom",206.72,1,0
+2011-07,16353,"United Kingdom",850.95,2,0
+2011-07,16362,"United Kingdom",215.09,1,0
+2011-07,16416,"United Kingdom",NULL,0,1
+2011-07,16523,"United Kingdom",676.80,1,0
+2011-07,16570,"United Kingdom",435.82,1,0
+2011-07,16612,"United Kingdom",317.36,1,0
+2011-07,16637,"United Kingdom",291.54,1,0
+2011-07,16678,"United Kingdom",NULL,0,1
+2011-07,16717,"United Kingdom",303.16,1,0
+2011-07,16779,"United Kingdom",743.58,1,0
+2011-07,16790,"United Kingdom",177.30,1,0
+2011-07,16817,"United Kingdom",207.99,1,0
+2011-07,17014,"United Kingdom",165.76,1,1
+2011-07,17043,"United Kingdom",641.36,1,0
+2011-07,17107,"United Kingdom",NULL,0,1
+2011-07,17109,"United Kingdom",193.21,2,0
+2011-07,17158,"United Kingdom",568.42,1,0
+2011-07,17164,"United Kingdom",451.09,3,0
+2011-07,17183,"United Kingdom",630.06,1,0
+2011-07,17302,"United Kingdom",335.47,1,0
+2011-07,17368,"United Kingdom",166.92,1,0
+2011-07,17389,"United Kingdom",403.20,1,0
+2011-07,17430,"United Kingdom",153.16,1,0
+2011-07,17623,"United Kingdom",527.05,1,0
+2011-07,17757,"United Kingdom",195.00,1,0
+2011-07,17761,"United Kingdom",712.78,1,0
+2011-07,17811,"United Kingdom",152.67,1,0
+2011-07,17857,"United Kingdom",180.00,1,0
+2011-07,18016,"United Kingdom",370.25,1,0
+2011-07,18036,"United Kingdom",146.93,1,0
+2011-07,18150,"United Kingdom",153.30,1,0
+2011-07,18229,"United Kingdom",414.60,1,0
+2011-08,12395,"Belgium",506.55,2,0
+2011-08,12471,"Germany",NULL,0,1
+2011-08,12472,"Germany",NULL,0,1
+2011-08,12483,"Sweden",NULL,0,1
+2011-08,12540,"Spain",573.71,1,0
+2011-08,12583,"France",774.45,1,0
+2011-08,12613,"Germany",NULL,0,1
+2011-08,12656,"France",NULL,0,1
+2011-08,12721,"France",614.32,1,0
+2011-08,12748,"United Kingdom",216.24,1,0
+2011-08,12849,"United Kingdom",341.44,1,0
+2011-08,12919,"United Kingdom",336.12,1,0
+2011-08,12971,"United Kingdom",94.74,1,0
+2011-08,12990,"United Kingdom",145.60,1,0
+2011-08,13026,"United Kingdom",170.64,1,0
+2011-08,13047,"United Kingdom",4.95,1,1
+2011-08,13089,"United Kingdom",1095.29,1,0
+2011-08,13090,"United Kingdom",1833.69,1,0
+2011-08,13110,"United Kingdom",241.73,1,0
+2011-08,13199,"United Kingdom",125.92,1,0
+2011-08,13272,"United Kingdom",135.60,1,0
+2011-08,13329,"United Kingdom",484.80,1,0
+2011-08,13381,"United Kingdom",625.88,1,0
+2011-08,13437,"United Kingdom",422.04,1,0
+2011-08,13587,"United Kingdom",NULL,0,1
+2011-08,13643,"United Kingdom",260.04,1,0
+2011-08,13668,"United Kingdom",150.92,1,0
+2011-08,13695,"United Kingdom",296.78,1,0
+2011-08,13709,"United Kingdom",NULL,0,1
+2011-08,13710,"United Kingdom",180.48,1,0
+2011-08,13867,"United Kingdom",390.65,1,0
+2011-08,13924,"United Kingdom",172.33,1,1
+2011-08,13928,"United Kingdom",131.22,1,0
+2011-08,13975,"United Kingdom",954.39,2,0
+2011-08,14050,"United Kingdom",260.38,1,0
+2011-08,14071,"United Kingdom",146.16,1,0
+2011-08,14116,"United Kingdom",213.50,1,0
+2011-08,14140,"United Kingdom",540.99,1,0
+2011-08,14156,"EIRE",NULL,0,1
+2011-08,14232,"United Kingdom",NULL,0,1
+2011-08,14282,"United Kingdom",249.70,1,0
+2011-08,14329,"United Kingdom",NULL,0,1
+2011-08,14342,"United Kingdom",91.04,1,0
+2011-08,14360,"United Kingdom",210.95,1,0
+2011-08,14367,"United Kingdom",598.46,1,0
+2011-08,14524,"United Kingdom",111.90,1,0
+2011-08,14560,"United Kingdom",60.60,1,0
+2011-08,14667,"United Kingdom",257.08,2,0
+2011-08,14676,"United Kingdom",377.28,1,0
+2011-08,14901,"United Kingdom",103.14,1,0
+2011-08,14910,"United Kingdom",101.64,1,0
+2011-08,14911,"EIRE",NULL,0,2
+2011-08,14948,"United Kingdom",NULL,0,1
+2011-08,15005,"United Kingdom",308.21,1,1
+2011-08,15039,"United Kingdom",239.61,1,0
+2011-08,15043,"United Kingdom",537.00,1,0
+2011-08,15066,"United Kingdom",NULL,0,1
+2011-08,15103,"United Kingdom",411.68,1,0
+2011-08,15153,"United Kingdom",329.25,1,0
+2011-08,15194,"United Kingdom",1421.67,1,0
+2011-08,15208,"United Kingdom",166.70,1,0
+2011-08,15249,"United Kingdom",407.55,1,0
+2011-08,15251,"United Kingdom",NULL,0,1
+2011-08,15271,"United Kingdom",NULL,0,1
+2011-08,15275,"United Kingdom",NULL,0,1
+2011-08,15290,"United Kingdom",435.28,1,0
+2011-08,15356,"United Kingdom",140.94,1,0
+2011-08,15406,"United Kingdom",258.42,1,0
+2011-08,15434,"United Kingdom",303.30,1,0
+2011-08,15513,"United Kingdom",NULL,0,1
+2011-08,15573,"United Kingdom",178.35,1,0
+2011-08,15615,"United Kingdom",787.29,1,0
+2011-08,15763,"United Kingdom",544.63,1,0
+2011-08,15805,"United Kingdom",192.00,1,0
+2011-08,15950,"United Kingdom",398.49,1,0
+2011-08,15957,"United Kingdom",418.49,1,0
+2011-08,16013,"United Kingdom",NULL,0,1
+2011-08,16066,"United Kingdom",390.85,1,0
+2011-08,16187,"United Kingdom",316.36,1,0
+2011-08,16253,"United Kingdom",NULL,0,1
+2011-08,16284,"United Kingdom",404.63,1,0
+2011-08,16379,"United Kingdom",NULL,0,1
+2011-08,16422,"United Kingdom",750.24,1,0
+2011-08,16505,"United Kingdom",777.60,1,0
+2011-08,16549,"United Kingdom",264.65,1,0
+2011-08,16602,"United Kingdom",NULL,0,1
+2011-08,16618,"United Kingdom",1206.30,1,0
+2011-08,16626,"United Kingdom",110.50,1,0
+2011-08,16639,"United Kingdom",786.36,1,0
+2011-08,16732,"United Kingdom",603.75,1,0
+2011-08,16764,"United Kingdom",351.59,1,1
+2011-08,16790,"United Kingdom",NULL,0,1
+2011-08,16837,"United Kingdom",521.54,1,0
+2011-08,16863,"United Kingdom",338.55,1,0
+2011-08,16945,"United Kingdom",407.24,2,0
+2011-08,17006,"United Kingdom",108.85,1,0
+2011-08,17022,"United Kingdom",71.00,1,0
+2011-08,17091,"United Kingdom",684.96,1,0
+2011-08,17160,"United Kingdom",516.85,1,0
+2011-08,17183,"United Kingdom",NULL,0,1
+2011-08,17219,"United Kingdom",112.53,1,0
+2011-08,17289,"United Kingdom",333.43,1,1
+2011-08,17313,"United Kingdom",2328.84,1,0
+2011-08,17515,"United Kingdom",67.65,1,0
+2011-08,17633,"United Kingdom",300.54,1,0
+2011-08,17637,"United Kingdom",208.11,1,0
+2011-08,17651,"United Kingdom",303.28,1,0
+2011-08,17736,"United Kingdom",NULL,0,1
+2011-08,17841,"United Kingdom",750.47,1,0
+2011-08,17870,"United Kingdom",138.16,1,0
+2011-08,17886,"United Kingdom",489.47,1,0
+2011-08,17924,"United Kingdom",NULL,0,1
+2011-08,17937,"United Kingdom",326.40,1,0
+2011-08,17961,"United Kingdom",9.90,1,0
+2011-08,17964,"United Kingdom",161.51,1,0
+2011-08,18123,"United Kingdom",308.48,1,0
+2011-08,18135,"United Kingdom",171.84,1,0
+2011-08,18164,"United Kingdom",NULL,0,1
+2011-08,18177,"United Kingdom",303.60,1,0
+2011-08,18198,"United Kingdom",303.08,1,0
+2011-08,18216,"United Kingdom",481.75,1,0
+2011-08,18223,"United Kingdom",NULL,0,1
+2011-09,12472,"Germany",NULL,0,1
+2011-09,12504,"Germany",449.40,1,0
+2011-09,12532,"France",349.83,1,0
+2011-09,12681,"France",718.99,1,0
+2011-09,12893,"United Kingdom",149.20,1,0
+2011-09,12921,"United Kingdom",808.95,3,0
+2011-09,12931,"United Kingdom",4245.20,1,1
+2011-09,12949,"United Kingdom",717.80,1,0
+2011-09,12971,"United Kingdom",340.99,3,0
+2011-09,13018,"United Kingdom",397.62,2,0
+2011-09,13029,"United Kingdom",474.30,1,0
+2011-09,13046,"United Kingdom",431.59,1,0
+2011-09,13147,"United Kingdom",237.60,1,0
+2011-09,13209,"United Kingdom",1704.93,3,0
+2011-09,13384,"United Kingdom",722.20,1,0
+2011-09,13408,"United Kingdom",550.44,1,0
+2011-09,13522,"United Kingdom",125.80,1,0
+2011-09,13588,"United Kingdom",212.64,1,0
+2011-09,13623,"United Kingdom",188.57,1,1
+2011-09,13629,"United Kingdom",821.00,1,0
+2011-09,13798,"United Kingdom",345.80,1,0
+2011-09,13804,"United Kingdom",352.81,2,0
+2011-09,13882,"United Kingdom",49.50,1,0
+2011-09,13992,"United Kingdom",76.80,1,0
+2011-09,14051,"United Kingdom",725.70,1,0
+2011-09,14108,"United Kingdom",306.58,1,0
+2011-09,14132,"United Kingdom",305.60,1,0
+2011-09,14188,"United Kingdom",336.40,1,0
+2011-09,14214,"United Kingdom",49.80,1,0
+2011-09,14234,"United Kingdom",209.48,1,0
+2011-09,14240,"United Kingdom",663.49,1,0
+2011-09,14284,"United Kingdom",343.15,1,0
+2011-09,14298,"United Kingdom",1245.56,1,0
+2011-09,14354,"United Kingdom",87.78,1,0
+2011-09,14482,"United Kingdom",223.93,1,0
+2011-09,14493,"United Kingdom",475.62,1,0
+2011-09,14543,"United Kingdom",312.78,1,0
+2011-09,14621,"United Kingdom",482.59,1,0
+2011-09,14691,"United Kingdom",345.26,1,0
+2011-09,14709,"United Kingdom",345.00,2,0
+2011-09,14732,"United Kingdom",311.19,1,0
+2011-09,14794,"United Kingdom",147.15,1,0
+2011-09,14836,"United Kingdom",76.05,1,0
+2011-09,14911,"EIRE",826.04,1,1
+2011-09,14921,"United Kingdom",413.06,1,0
+2011-09,14968,"United Kingdom",147.59,1,0
+2011-09,15027,"United Kingdom",99.18,1,0
+2011-09,15031,"United Kingdom",230.82,1,0
+2011-09,15046,"United Kingdom",393.23,1,0
+2011-09,15114,"United Kingdom",508.28,1,0
+2011-09,15134,"United Kingdom",172.14,1,0
+2011-09,15152,"United Kingdom",309.08,1,0
+2011-09,15187,"United Kingdom",306.00,1,0
+2011-09,15189,"United Kingdom",742.20,1,0
+2011-09,15311,"United Kingdom",275.41,1,0
+2011-09,15392,"United Kingdom",565.66,1,0
+2011-09,15450,"United Kingdom",429.84,1,0
+2011-09,15485,"United Kingdom",1291.33,1,0
+2011-09,15531,"United Kingdom",1470.24,1,0
+2011-09,15555,"United Kingdom",312.12,1,0
+2011-09,15594,"United Kingdom",182.55,1,0
+2011-09,15679,"United Kingdom",474.40,1,0
+2011-09,15769,"United Kingdom",1975.00,1,0
+2011-09,15916,"United Kingdom",331.29,1,1
+2011-09,15986,"United Kingdom",168.12,1,0
+2011-09,16041,"United Kingdom",426.60,1,0
+2011-09,16168,"United Kingdom",207.50,1,0
+2011-09,16205,"United Kingdom",214.80,1,0
+2011-09,16210,"United Kingdom",1809.60,1,0
+2011-09,16516,"United Kingdom",101.70,1,0
+2011-09,16592,"United Kingdom",285.85,1,0
+2011-09,16655,"United Kingdom",613.68,1,0
+2011-09,16656,"United Kingdom",103.68,1,0
+2011-09,16670,"United Kingdom",484.15,1,0
+2011-09,16751,"United Kingdom",1619.72,1,0
+2011-09,16759,"United Kingdom",418.85,2,0
+2011-09,16767,"United Kingdom",755.10,4,0
+2011-09,16839,"United Kingdom",450.40,1,0
+2011-09,16880,"United Kingdom",398.31,1,0
+2011-09,16953,"United Kingdom",20.80,1,0
+2011-09,16986,"United Kingdom",83.20,1,0
+2011-09,16996,"United Kingdom",415.18,1,0
+2011-09,17011,"United Kingdom",270.90,1,0
+2011-09,17038,"United Kingdom",112.40,1,0
+2011-09,17086,"United Kingdom",307.96,1,0
+2011-09,17293,"United Kingdom",287.40,1,0
+2011-09,17377,"United Kingdom",283.31,1,0
+2011-09,17402,"United Kingdom",312.90,1,0
+2011-09,17511,"United Kingdom",9565.54,2,1
+2011-09,17528,"United Kingdom",373.27,1,0
+2011-09,17611,"United Kingdom",242.45,1,0
+2011-09,17690,"United Kingdom",504.53,1,0
+2011-09,17702,"United Kingdom",485.60,1,0
+2011-09,17705,"United Kingdom",413.60,1,0
+2011-09,17841,"United Kingdom",427.77,2,0
+2011-09,17857,"United Kingdom",2640.00,1,0
+2011-09,17865,"United Kingdom",1118.14,1,0
+2011-09,17867,"United Kingdom",149.29,2,0
+2011-09,18109,"United Kingdom",261.20,1,0
+2011-09,18144,"United Kingdom",315.00,1,0
+2011-09,18172,"United Kingdom",355.32,2,0
+2011-09,18274,"United Kingdom",175.92,1,0
+2011-10,12417,"Belgium",NULL,0,1
+2011-10,12473,"Germany",80.92,2,2
+2011-10,12508,"France",267.28,1,0
+2011-10,12538,"Spain",363.95,1,0
+2011-10,12541,"Spain",445.04,1,0
+2011-10,12544,"Spain",NULL,0,1
+2011-10,12599,"France",175.54,1,0
+2011-10,12617,"France",341.63,1,0
+2011-10,12619,"Germany",NULL,0,1
+2011-10,12659,"France",91.68,1,0
+2011-10,12670,"France",665.46,1,0
+2011-10,12682,"France",556.23,2,0
+2011-10,12708,"Germany",33.00,1,0
+2011-10,12748,"United Kingdom",634.70,2,0
+2011-10,12826,"United Kingdom",279.50,1,0
+2011-10,12844,"United Kingdom",146.88,1,0
+2011-10,12952,"United Kingdom",NULL,0,1
+2011-10,12981,"United Kingdom",185.04,1,0
+2011-10,13081,"United Kingdom",72.00,1,1
+2011-10,13098,"United Kingdom",1955.68,1,1
+2011-10,13148,"United Kingdom",907.50,2,0
+2011-10,13230,"United Kingdom",164.59,1,0
+2011-10,13266,"United Kingdom",301.06,1,0
+2011-10,13267,"United Kingdom",384.88,1,0
+2011-10,13319,"United Kingdom",1992.99,3,0
+2011-10,13396,"United Kingdom",939.04,1,0
+2011-10,13460,"United Kingdom",75.98,1,0
+2011-10,13468,"United Kingdom",125.38,1,0
+2011-10,13499,"United Kingdom",323.62,1,0
+2011-10,13576,"United Kingdom",543.36,1,0
+2011-10,13599,"United Kingdom",NULL,0,1
+2011-10,13606,"United Kingdom",30.12,1,0
+2011-10,13767,"United Kingdom",1735.30,1,1
+2011-10,13769,"United Kingdom",NULL,0,1
+2011-10,13817,"Germany",254.28,1,0
+2011-10,13983,"United Kingdom",128.88,1,0
+2011-10,13988,"United Kingdom",NULL,0,1
+2011-10,14032,"United Kingdom",NULL,0,1
+2011-10,14064,"United Kingdom",223.66,1,1
+2011-10,14096,"United Kingdom",4311.34,1,1
+2011-10,14121,"United Kingdom",1247.41,1,0
+2011-10,14180,"United Kingdom",159.75,1,0
+2011-10,14189,"United Kingdom",314.66,1,0
+2011-10,14194,"United Kingdom",NULL,0,1
+2011-10,14226,"United Kingdom",320.07,1,0
+2011-10,14262,"United Kingdom",514.16,1,0
+2011-10,14397,"United Kingdom",300.38,1,0
+2011-10,14401,"United Kingdom",NULL,0,1
+2011-10,14456,"United Kingdom",231.89,1,1
+2011-10,14466,"United Kingdom",486.75,1,0
+2011-10,14560,"United Kingdom",65.28,1,0
+2011-10,14562,"United Kingdom",326.52,1,0
+2011-10,14606,"United Kingdom",106.89,1,1
+2011-10,14608,"United Kingdom",486.65,1,0
+2011-10,14646,"Netherlands",9823.12,3,0
+2011-10,14712,"United Kingdom",495.60,1,0
+2011-10,14713,"United Kingdom",360.84,1,0
+2011-10,14748,"United Kingdom",296.98,1,0
+2011-10,14765,"United Kingdom",158.61,1,0
+2011-10,14829,"United Kingdom",165.92,1,0
+2011-10,14863,"United Kingdom",266.76,1,0
+2011-10,14895,"United Kingdom",751.12,1,0
+2011-10,14911,"EIRE",1003.03,1,0
+2011-10,14944,"United Kingdom",943.06,2,0
+2011-10,15111,"United Kingdom",329.68,1,0
+2011-10,15159,"United Kingdom",826.70,1,0
+2011-10,15184,"United Kingdom",166.97,1,0
+2011-10,15238,"United Kingdom",299.21,1,0
+2011-10,15289,"United Kingdom",241.80,1,0
+2011-10,15297,"United Kingdom",149.80,1,0
+2011-10,15355,"United Kingdom",150.80,1,0
+2011-10,15358,"United Kingdom",NULL,0,1
+2011-10,15452,"United Kingdom",125.40,1,0
+2011-10,15463,"United Kingdom",126.14,1,0
+2011-10,15597,"United Kingdom",NULL,0,1
+2011-10,15694,"United Kingdom",600.18,1,0
+2011-10,15785,"United Kingdom",NULL,0,1
+2011-10,15805,"United Kingdom",NULL,0,1
+2011-10,15814,"United Kingdom",NULL,0,1
+2011-10,15830,"United Kingdom",NULL,0,1
+2011-10,15839,"United Kingdom",NULL,0,1
+2011-10,16003,"United Kingdom",941.47,2,0
+2011-10,16011,"United Kingdom",256.20,1,0
+2011-10,16025,"United Kingdom",439.66,1,0
+2011-10,16094,"United Kingdom",509.20,2,0
+2011-10,16126,"United Kingdom",2581.07,1,0
+2011-10,16133,"United Kingdom",NULL,0,1
+2011-10,16169,"United Kingdom",579.15,1,0
+2011-10,16218,"United Kingdom",449.20,1,0
+2011-10,16434,"United Kingdom",182.23,1,0
+2011-10,16440,"United Kingdom",848.16,1,0
+2011-10,16523,"United Kingdom",NULL,0,1
+2011-10,16628,"United Kingdom",568.21,1,0
+2011-10,16700,"United Kingdom",369.12,1,0
+2011-10,16705,"United Kingdom",NULL,0,1
+2011-10,16743,"United Kingdom",352.23,1,0
+2011-10,16791,"United Kingdom",476.06,1,0
+2011-10,16863,"United Kingdom",NULL,0,1
+2011-10,16892,"United Kingdom",131.14,1,0
+2011-10,16903,"United Kingdom",330.65,1,0
+2011-10,16904,"United Kingdom",356.18,1,0
+2011-10,16907,"United Kingdom",265.57,1,0
+2011-10,16979,"United Kingdom",302.64,1,0
+2011-10,16986,"United Kingdom",1790.00,1,0
+2011-10,17059,"United Kingdom",843.29,1,0
+2011-10,17101,"United Kingdom",471.00,1,0
+2011-10,17109,"United Kingdom",108.86,1,0
+2011-10,17188,"United Kingdom",350.02,1,0
+2011-10,17197,"United Kingdom",1013.01,1,0
+2011-10,17243,"United Kingdom",435.75,1,0
+2011-10,17315,"United Kingdom",420.75,1,0
+2011-10,17340,"United Kingdom",3884.43,1,0
+2011-10,17389,"United Kingdom",3782.52,1,0
+2011-10,17416,"United Kingdom",1014.61,1,0
+2011-10,17442,"United Kingdom",NULL,0,1
+2011-10,17461,"United Kingdom",382.56,1,0
+2011-10,17500,"United Kingdom",288.00,1,0
+2011-10,17502,"United Kingdom",226.60,1,0
+2011-10,17521,"United Kingdom",225.46,1,0
+2011-10,17528,"United Kingdom",NULL,0,1
+2011-10,17537,"United Kingdom",266.92,1,0
+2011-10,17573,"United Kingdom",198.39,1,0
+2011-10,17651,"United Kingdom",NULL,0,1
+2011-10,17652,"United Kingdom",NULL,0,1
+2011-10,17653,"United Kingdom",NULL,0,1
+2011-10,17716,"United Kingdom",347.68,1,0
+2011-10,17791,"United Kingdom",106.10,1,0
+2011-10,17861,"United Kingdom",113.50,1,0
+2011-10,17901,"United Kingdom",110.38,1,0
+2011-10,17932,"United Kingdom",397.06,1,0
+2011-10,17977,"United Kingdom",266.45,1,0
+2011-10,18092,"United Kingdom",NULL,0,1
+2011-10,18125,"United Kingdom",186.60,1,0
+2011-10,18135,"United Kingdom",129.60,1,0
+2011-10,18210,"United Kingdom",321.37,1,0
+2011-10,18217,"United Kingdom",303.85,1,0
+2011-10,18230,"United Kingdom",343.80,1,0
+2011-10,18236,"United Kingdom",108.50,1,0
+2011-10,18283,"United Kingdom",110.35,2,0
+2011-11,12384,"Switzerland",292.58,1,0
+2011-11,12480,"Germany",1136.68,1,0
+2011-11,12517,"Germany",524.28,2,1
+2011-11,12518,"Germany",486.96,1,0
+2011-11,12589,"France",515.18,1,0
+2011-11,12598,"France",336.80,1,0
+2011-11,12600,"Germany",379.58,1,0
+2011-11,12685,"France",413.12,1,0
+2011-11,12691,"France",176.40,1,0
+2011-11,12697,"Sweden",223.68,1,0
+2011-11,12712,"Germany",232.65,1,0
+2011-11,12726,"France",784.46,1,0
+2011-11,12748,"United Kingdom",477.63,2,0
+2011-11,12757,"Portugal",305.30,1,0
+2011-11,12856,"United Kingdom",243.47,1,1
+2011-11,12931,"United Kingdom",NULL,0,1
+2011-11,12985,"United Kingdom",754.38,1,0
+2011-11,13091,"United Kingdom",330.22,1,0
+2011-11,13137,"United Kingdom",670.92,1,0
+2011-11,13310,"United Kingdom",314.38,1,0
+2011-11,13408,"United Kingdom",NULL,0,2
+2011-11,13500,"United Kingdom",NULL,0,1
+2011-11,13557,"United Kingdom",343.38,1,0
+2011-11,13588,"United Kingdom",5.43,1,2
+2011-11,13727,"United Kingdom",110.40,1,0
+2011-11,13732,"United Kingdom",491.86,1,0
+2011-11,13810,"Germany",240.97,1,0
+2011-11,13881,"United Kingdom",NULL,0,1
+2011-11,13895,"United Kingdom",681.96,1,0
+2011-11,13999,"United Kingdom",328.43,1,0
+2011-11,14035,"United Kingdom",300.32,1,0
+2011-11,14125,"United Kingdom",1091.28,1,0
+2011-11,14156,"EIRE",370.80,1,0
+2011-11,14178,"United Kingdom",246.86,1,0
+2011-11,14226,"United Kingdom",16.95,1,0
+2011-11,14309,"United Kingdom",328.96,1,0
+2011-11,14446,"United Kingdom",148.96,1,0
+2011-11,14527,"United Kingdom",198.29,1,0
+2011-11,14543,"United Kingdom",15.80,1,0
+2011-11,14662,"United Kingdom",225.75,1,0
+2011-11,14789,"United Kingdom",197.64,1,0
+2011-11,14790,"United Kingdom",216.74,1,0
+2011-11,14836,"United Kingdom",3.00,1,0
+2011-11,14907,"United Kingdom",416.56,1,0
+2011-11,14911,"EIRE",2135.97,2,0
+2011-11,15024,"United Kingdom",280.49,1,0
+2011-11,15034,"United Kingdom",813.75,1,1
+2011-11,15311,"United Kingdom",4038.23,1,0
+2011-11,15473,"United Kingdom",306.00,1,0
+2011-11,15492,"United Kingdom",171.72,1,0
+2011-11,15544,"United Kingdom",446.02,1,0
+2011-11,15557,"United Kingdom",407.63,1,0
+2011-11,15602,"United Kingdom",125.04,1,0
+2011-11,15608,"United Kingdom",122.40,1,0
+2011-11,15681,"United Kingdom",479.80,1,0
+2011-11,15692,"United Kingdom",191.04,1,0
+2011-11,15903,"United Kingdom",1405.20,1,0
+2011-11,15965,"United Kingdom",442.44,2,0
+2011-11,16107,"United Kingdom",504.24,1,0
+2011-11,16133,"United Kingdom",359.90,1,0
+2011-11,16332,"United Kingdom",202.31,1,0
+2011-11,16368,"United Kingdom",302.48,1,0
+2011-11,16386,"United Kingdom",227.17,1,0
+2011-11,16433,"United Kingdom",179.22,1,0
+2011-11,16458,"United Kingdom",203.60,1,0
+2011-11,16460,"United Kingdom",302.62,1,0
+2011-11,16671,"United Kingdom",152.64,1,0
+2011-11,16790,"United Kingdom",138.92,1,0
+2011-11,16912,"United Kingdom",156.43,1,0
+2011-11,17015,"United Kingdom",272.58,1,0
+2011-11,17052,"United Kingdom",349.90,1,0
+2011-11,17054,"United Kingdom",149.01,1,0
+2011-11,17069,"United Kingdom",650.79,2,0
+2011-11,17071,"United Kingdom",432.16,1,0
+2011-11,17088,"United Kingdom",239.28,1,0
+2011-11,17162,"United Kingdom",236.20,1,0
+2011-11,17191,"United Kingdom",493.07,1,0
+2011-11,17238,"United Kingdom",343.49,1,0
+2011-11,17243,"United Kingdom",424.20,1,0
+2011-11,17295,"United Kingdom",267.64,2,0
+2011-11,17314,"United Kingdom",315.72,1,0
+2011-11,17348,"United Kingdom",192.93,1,0
+2011-11,17364,"United Kingdom",904.60,1,0
+2011-11,17512,"United Kingdom",451.68,1,0
+2011-11,17677,"United Kingdom",640.84,1,0
+2011-11,17730,"United Kingdom",325.01,1,0
+2011-11,17841,"United Kingdom",215.25,1,0
+2011-11,18014,"United Kingdom",159.67,1,0
+2011-11,18118,"United Kingdom",144.47,1,0
+2011-11,18130,"United Kingdom",455.91,1,0
+2011-11,18209,"United Kingdom",139.10,1,0
