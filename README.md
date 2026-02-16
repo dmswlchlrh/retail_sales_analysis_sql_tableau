@@ -3,7 +3,7 @@ End-to-end retail analysis: Identifying sales trends and operational risks to op
 
 ## Dashboard Preview
 https://public.tableau.com/views/OnlineRetailAnalysisProject_17708374223560/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-[![Tableau Dashboard](이미지_주소)](https://public.tableau.com/views/OnlineRetailAnalysisProject_17708374223560/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Tableau Dashboard](Tableau/Tableau_Dashboard_Screenshot.png)](https://public.tableau.com/views/OnlineRetailAnalysisProject_17708374223560/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Project Overview
 This project focuses on building a robust analytical framework to answer: 'Why did sales change?' I leveraged SQL to process raw transactional records and built a relationship-driven Tableau dashboard. This project demonstrates the ability to take external raw data and convert it into actionable business intelligence by linking sales, customers, and risks.
