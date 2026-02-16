@@ -15,17 +15,17 @@ This project focuses on building a robust analytical framework to answer: 'Why d
 - Dataset: UCI Machine Learning Repository: Online Retail (https://archive.ics.uci.edu/dataset/352/online+retail)
 
 ## Analysis Workflow
-1. Data Modeling & Assumptions ("The Base Grain")
-The Assumption: Treated each row as a Logical Invoice Line to handle the absence of a unique line identifier.
-Logic Segregation: Separated 'Sale' vs. 'Cancellation' at the SQL level to ensure clean revenue metrics while enabling independent risk tracking.
+1. Data Modeling & Data Cleaning
+- Handling Anomalies: Identified and handled missing CustomerID and negative Quantity values representing stock adjustments.
+- Logic Segregation: Separated 'Sale' vs. 'Cancellation' at the SQL level to ensure clean revenue metrics while enabling independent risk tracking.
 
 2. Business Momentum (SQL Exploration)
-Growth Metrics: Developed advanced queries for MoM (Month-over-Month) and QoQ (Quarter-over-Quarter) growth.
-Unified Dimension: Integrated a YearMonth key across all tables to bridge the gap between SQL and Tableau’s relationship model.
+- Growth Metrics: Developed advanced queries for MoM (Month-over-Month) and QoQ (Quarter-over-Quarter) growth.
+- Unified Dimension: Integrated a YearMonth key across all tables to bridge the gap between SQL and Tableau’s relationship model.
 
 3. Tableau Optimisation & Features
-Dynamic Top-N: Used Parameters instead of static filters, allowing "Top Customers" to update in real-time based on the selected period.
-Action Filters: Configured global triggers to enable Drill-down analysis—selecting a specific month on the sales trend line automatically filters all related dimensions (Customers, Products, and Countries).
+- Dynamic Top-N: Used Parameters instead of static filters, allowing "Top Customers" to update in real-time based on the selected period.
+- Action Filters: Configured global triggers to enable Drill-down analysis—selecting a specific month on the sales trend line automatically filters all related dimensions (Customers, Products, and Countries).
 
 ## **Key Insights & Business Value**
 1. Market Dominance & Strategic Expansion
