@@ -1,10 +1,6 @@
 # Online-Retail-Sales-Analysis
 End-to-end retail analysis: Identifying sales trends and operational risks to optimise business performance, using SQL for data transformation and Tableau for visualisation.
 
-## Dashboard Preview
-https://public.tableau.com/views/OnlineRetailAnalysisProject_17708374223560/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-[![Tableau Dashboard](Tableau/Tableau_Dashboard_Screenshot.png)](https://public.tableau.com/views/OnlineRetailAnalysisProject_17708374223560/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
 ## Project Overview
 This project focuses on building a robust analytical framework to answer: 'Why did sales change?' I leveraged SQL to process raw transactional records and built a relationship-driven Tableau dashboard. This project demonstrates the ability to take external raw data and convert it into actionable business intelligence by linking sales, customers, and risks.
 
@@ -17,6 +13,9 @@ This project focuses on building a robust analytical framework to answer: 'Why d
 - SQL (MySQL): Data cleaning, logic segregation, and pre-aggregation.
 - Tableau: Relationship modeling, dynamic Top-N logic, and interactive storytelling.
 - Dataset: UCI Machine Learning Repository: Online Retail (https://archive.ics.uci.edu/dataset/352/online+retail)
+
+## Dashboard Preview
+[![Tableau Dashboard](Tableau/Tableau_Dashboard_Screenshot.png)](https://public.tableau.com/views/OnlineRetailAnalysisProject_17708374223560/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Analysis Workflow
 1. Data Modeling & Assumptions ("The Base Grain")
