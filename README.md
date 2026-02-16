@@ -14,9 +14,6 @@ This project focuses on building a robust analytical framework to answer: 'Why d
 - Tableau: Relationship modeling, dynamic Top-N logic, and interactive storytelling.
 - Dataset: UCI Machine Learning Repository: Online Retail (https://archive.ics.uci.edu/dataset/352/online+retail)
 
-## Dashboard Preview
-[![Tableau Dashboard](Tableau/Tableau_Dashboard_Screenshot.png)](https://public.tableau.com/views/OnlineRetailAnalysisProject_17708374223560/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
 ## Analysis Workflow
 1. Data Modeling & Assumptions ("The Base Grain")
 The Assumption: Treated each row as a Logical Invoice Line to handle the absence of a unique line identifier.
@@ -46,6 +43,9 @@ Action Filters: Configured global triggers to enable Drill-down analysis—selec
 4. Customer Identification & Retention
 - Key Insight: The Top 10 customers account for a disproportionate share of total revenue, with purchasing patterns (bulk orders) that suggest they are Wholesalers rather than individual retail consumers.
 - Business Value: Segmenting these high-value customers allows for a tailored CRM strategy. Establishing dedicated loyalty programs or volume-based discount tiers for these key accounts ensures long-term retention and a stable, recurring revenue base.
+
+## Dashboard Preview
+[![Tableau Dashboard](Tableau/Tableau_Dashboard_Screenshot.png)](https://public.tableau.com/views/OnlineRetailAnalysisProject_17708374223560/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dashboard Key Features
 1. Executive Summary (KPIs): Provides an immediate snapshot of Total Sales, Total Customers, and the Average Cancellation Rate.
