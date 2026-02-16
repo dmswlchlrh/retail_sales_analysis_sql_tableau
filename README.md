@@ -33,21 +33,21 @@ Action Filters: Configured global triggers to enable Drill-down analysis—selec
 - Customer Concentraion:
 
 ## Repository Structure
-Raw_Data/:
-Data_Dictionary.png
-Online_Retail_Raw_Data.xlsx
-SQL/:
-01_Data_Cleaning.sql
-02_Data_Exploration.sql
-03_Tableau_Preparation.sql
-Tableau/:
-Data_Source_1.csv, Data_Source_2.csv, Data_Source_3.csv
-MasterFactTable.csv
-Online_Retail_Analysis_Project.twbx (Main Dashboard)
-Tableau_Dashboard_Screenshot.png (Preview Image)
-README.md
+├── Raw_Data/
+│   ├── Online_Retail_Raw.xlsx
+│   └── Data_Dictionary.png
+├── SQL/
+│   ├── 01_Data_Cleaning.sql
+│   ├── 02_Data_Exploration.sql
+│   └── 03_Tableau_Preparation.sql
+├── Tableau/
+│   ├── Online_Retail_Analysis.twbx     
+│   ├── Tableau_Dashboard_Screenshot.png 
+│   ├── MasterFactTable.csv
+│   ├── Data_Source_1.csv
+│   ├── Data_Source_2.csv
+│   └── Data_Source_3.csv
+└── README.md                          
 
 ## Dashboard Preview
 https://public.tableau.com/views/OnlineRetailAnalysisProject_17708374223560/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-Online Retail Analysis Project
-public.tableau.com
