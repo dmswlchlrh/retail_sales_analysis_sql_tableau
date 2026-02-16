@@ -37,12 +37,12 @@ Action Filters: Configured global triggers to enable Drill-down analysis—selec
 - Business Value: Enables optimised procurement cycles to prevent stockouts during these three key peaks. It also helps in balancing inventory levels to reduce carrying costs during slower months.
 
 3. Product Performance & Inventory Optimisation
-- Key Insight: Specific steady-sellers like the 'JUMBO BAG RED RETROSPOT' drive high volume, while other premium items contribute significantly to the profit margin despite lower sales frequency.
+- Key Insight: Specific steady-sellers like the 'JUMBO BAG RED RETROSPOT' drive high volume, while other items contribute significantly to the profit margin despite lower sales frequency.
 - Business Value: This allows for ABC Inventory Analysis, prioritising high-value stock. Furthermore, implementing Product Bundling strategies (pairing high-volume items with slow-moving stock) can increase the Average Order Value (AOV) and improve inventory turnover rates.
 
 4. Customer Identification & Retention
-- Key Insight: The Top 10 customers account for a disproportionate share of total revenue, with purchasing patterns (bulk orders) that suggest they are Wholesalers rather than individual retail consumers.
-- Business Value: Segmenting these high-value customers allows for a tailored CRM strategy. Establishing dedicated loyalty programs or volume-based discount tiers for these key accounts ensures long-term retention and a stable, recurring revenue base.
+- Key Insight: The Top 10 customers account for a disproportionate share of total revenue, with purchasing patterns (bulk orders).
+- Business Value: Establishing dedicated loyalty programs or volume-based discount tiers for these key accounts ensures long-term retention and a stable, recurring revenue base.
 
 ## Dashboard Preview
 [![Tableau Dashboard](Tableau/Tableau_Dashboard_Screenshot.png)](https://public.tableau.com/views/OnlineRetailAnalysisProject_17708374223560/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
