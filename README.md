@@ -51,7 +51,7 @@ This project focuses on building a robust analytical framework to answer: **'Why
 
 
 ## Dashboard Preview
-[![Tableau Dashboard](Tableau/tableau_dashboard_screenshot.png)](https://public.tableau.com/views/onlineretailanalysisproject_17708374223560/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Tableau Dashboard](Tableau/tableau_dashboard_screenshot.png)](https://public.tableau.com/views/OnlineRetailAnalysisProject_17708374223560/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Dashboard Key Features
