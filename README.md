@@ -11,7 +11,7 @@ This project focuses on building a robust analytical framework to answer: **'Why
 - Which products and customers are the **primary contributors** to total revenue, and what are their typical purchasing patterns?
 
 
-## Tools & Technologies
+## Tech Stack
 - **SQL (MySQL)**: Data cleaning, logic segregation, and pre-aggregation.
 - **Tableau**: Relationship modeling, dynamic Top-N logic, and interactive storytelling.
 - **Dataset**: UCI Machine Learning Repository: Online Retail (https://archive.ics.uci.edu/dataset/352/online+retail)
