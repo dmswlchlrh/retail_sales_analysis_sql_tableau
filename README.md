@@ -70,10 +70,12 @@ This project focuses on building a robust analytical framework to answer: **'Why
 ├── Raw_Data/
 │   ├── Online_Retail_Raw.xlsx
 │   └── Data_Dictionary.png
+│ 
 ├── SQL/
 │   ├── 01_Data_Cleaning.sql
 │   ├── 02_Data_Exploration.sql
 │   └── 03_Tableau_Preparation.sql
+│ 
 ├── Tableau/
 │   ├── Online_Retail_Analysis.twbx     
 │   ├── Tableau_Dashboard_Screenshot.png
@@ -81,5 +83,6 @@ This project focuses on building a robust analytical framework to answer: **'Why
 │   ├── Data_Source_1.csv
 │   ├── Data_Source_2.csv
 │   └── Data_Source_3.csv
+│ 
 └── README.md                          
 ```
