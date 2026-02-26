@@ -67,9 +67,9 @@ This project focuses on building a robust analytical framework to answer: **'Why
 
 ## Project Structure
 ```
-├── Raw_Data/
-│   ├── Online_Retail_Raw.xlsx
-│   └── Data_Dictionary.png
+├── Rawdata/
+│   ├── Data_Dictionary.png
+│   └── Online_Retail_Raw.xlsx
 │ 
 ├── SQL/
 │   ├── 01_Data_Cleaning.sql
@@ -77,12 +77,12 @@ This project focuses on building a robust analytical framework to answer: **'Why
 │   └── 03_Tableau_Preparation.sql
 │ 
 ├── Tableau/
-│   ├── Online_Retail_Analysis.twbx     
-│   ├── Tableau_Dashboard_Screenshot.png
-│   ├── MasterFactTable.csv
 │   ├── Data_Source_1.csv
-│   ├── Data_Source_2.csv
-│   └── Data_Source_3.csv
+│   ├── Data_Source_2.csv    
+│   ├── Data_Source_3.csv
+│   ├── MasterFactTable.csv
+│   ├── Online_Retail_Analysis_Project.twbx 
+│   └── Tableau_Dashboard_Screenshot.png
 │ 
 └── README.md                          
 ```
