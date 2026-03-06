@@ -1,4 +1,4 @@
-# Online-Retail-Sales-Analysis
+# Strategic Retail Analytics: Optimising Business Performance
 **End-to-end retail analysis**: Identifying sales trends and operational risks to optimise business performance, using SQL for data transformation and Tableau for visualisation.
 
 This project focuses on building a robust analytical framework to answer: **'Why did sales change?'** I leveraged SQL to process raw transactional records and built a relationship-driven Tableau dashboard. This project demonstrates the ability to take external raw data and convert it into actionable business intelligence by linking sales, customers, and risks.
